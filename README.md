@@ -5,11 +5,11 @@ This repository contains a customer segmentation report for Bertelsmann Arvato F
 
 ## Contents
 
-- [Project Description] (#projectdescription)
-- [The Data] (#data)
+- [Project Description](#projectdescription)
+- [The Data](#data)
 - [Files](#files)
 - [Methods](#methods)
-- [Results] (#results)
+- [Results](#results)
 
 ## Project Description
 
@@ -22,6 +22,10 @@ There are four data files associated with this project:
 * Udacity_MAILOUT_052018_TEST.csv: Demographics data for individuals who were targets of a marketing campaign; 42 833 persons (rows) x 366 (columns).
 
 ## Files
+* clean_data.py (Module with cleaning and processing functions)
+* Data cleaning and processing.ipynb (Sparsity analysis and cleaning)
+* Customer_Segmentation_and_Acquisition.ipynb (Custumer clusters and predictive models)
+* Report.pdf
 
 ## Methods
 
