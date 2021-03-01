@@ -23,7 +23,7 @@ There are six data files associated with this project:
 * `DIAS Information Levels - Attributes 2017.xlsx`: is a top-level list of attributes and descriptions, organized by informational category
 * `DIAS Attributes - Values 2017.xlsx`: is a detailed mapping of data values for each feature in alphabetical order
 
-A detailed exploration and processing can be found in the notebook [Data Cleaning and Processing](Data Cleaning and Processing.ipynb)
+A detailed exploration and processing can be found in the notebook [https://github.com/camilomesa/Customer-Segmentation-and-Acquisition/blob/main/Data%20Cleaning%20and%20Processing.ipynb](Data Cleaning and Processing.ipynb)
 
 ## Files
 * clean_data.py (Module with cleaning and processing functions)
