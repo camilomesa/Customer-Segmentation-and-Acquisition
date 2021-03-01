@@ -24,6 +24,7 @@ There are four data files associated with this project:
 ## Files
 * clean_data.py (Module with cleaning and processing functions)
 * Data cleaning and processing.ipynb (Sparsity analysis and cleaning)
+* Feature Selection.ipynb (Dimensionality Reduction Using Gini Importance)
 * Customer_Segmentation_and_Acquisition.ipynb (Custumer clusters and predictive models)
 * Report.pdf
 
