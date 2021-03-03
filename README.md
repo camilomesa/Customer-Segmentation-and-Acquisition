@@ -42,6 +42,14 @@ A detailed exploration and processing can be found in the notebook [Data Cleanin
 * Report.pdf
 
 ## Methods
+This project consisted of creating a data pipeline in which we mine the datasets as follows.
+
+- Data is cleaned and processed.
+- The most important features are selected using a customer classification model and their contribution to the prediction.
+- Principal components analysis is implemented to further reduce the data set’s dimension and select a combination of the features that explained most of the data set variance.
+- The general population is segmented using clustering (k-means). Then we used the distribution of customers among the clusters to find distinctive features of the company’s typical clients. This analysis also helped engineered a feature used in the next step.
+- Finally, we trained a gradient boost classification algorithm to classify clients who were likely to respond to a mailout campaign. The final model had an area under the receiver operating characteristic curve score of 0.77.
+
 
 ## Results
-The file _______ contains a summary of the results and the Jupyter notebooks detailed analysis of the results explanation of the methods. The medium post presents a summary of the results and methods of this project.
+The file `Report.pdf` contains a summary of the results and the Jupyter notebooks detailed analysis of the results explanation of the methods. The medium post presents a summary of the results and methods of this project.
