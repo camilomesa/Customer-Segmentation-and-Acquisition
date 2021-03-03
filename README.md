@@ -12,6 +12,15 @@ This repository contains a customer segmentation report for Bertelsmann Arvato F
 - [Results](#results)
 
 ## Project Description
+Demographics data for customers of a mail-order sales company in Germany is analyzed and compared against demographics information for the general population to improve customer acquisition. The data was provided by Bertelsmann Arvato Analytics, a company that offers financial services, Information Technology (IT) services, and Supply Chain Management (SCM) solutions for business customers on a global scale. Two main questions motivate this work:
+
+- How can our client (a mail-order company) acquire clients more efficiently?
+- Which people in Germany are more likely to become new customers of our client?
+
+Using unsupervised learning, we present a customer segmentation of the company that identifies parts of the population that best describe its core customer base. 
+
+The information used in the customer segmentation is then incorporated in a model designed for targeting a marketing campaign more efficiently. We develop a  classification model to predict which individuals are most likely to become new customers.
+
 
 ## The Data
 There are six data files associated with this project:
@@ -35,4 +44,4 @@ A detailed exploration and processing can be found in the notebook [Data Cleanin
 ## Methods
 
 ## Results
-The file _______ contains a detailed analysis of the results. The medium post presents a summary of the results and methods of this project.
+The file _______ contains a summary of the results and the Jupyter notebooks detailed analysis of the results explanation of the methods. The medium post presents a summary of the results and methods of this project.
