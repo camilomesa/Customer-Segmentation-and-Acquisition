@@ -52,4 +52,4 @@ This project consisted of creating a data pipeline in which we mine the datasets
 
 
 ## Results
-The file `Report.pdf` contains a summary of the results and the Jupyter notebooks detailed analysis of the results explanation of the methods. This [medium post](https://mesag-camilo.medium.com/customer-segmentation-report-for-arvato-financial-solutions-5cba34d40c3a) alos presents a summary of the results and methods of this project.
+The file `Report.pdf` contains a summary of the results and the Jupyter notebooks detailed analysis of the results explanation of the methods. This [medium post](https://mesag-camilo.medium.com/customer-segmentation-report-for-arvato-financial-solutions-5cba34d40c3a) also presents a summary of the results and methods of this project.
